@@ -2,7 +2,6 @@
 print("Welcome to The Space Odyssey!")
 name = input("What is your name, Captain? ")
 
-# First choice: crash landing on Xyphos
 print(f"\nCaptain {name}, your ship 'Starlight' has crash-landed on the mysterious planet Xyphos.")
 print("You are now stranded, and it's up to you to explore the unknown surface.")
 first_choice = input("Do you want to explore the crash site or venture into the alien ruins? (crash/ruins) ").lower()
